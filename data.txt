@@ -40,7 +40,7 @@ Credit:
 - Plastic types ‘H’ (hard plastics, sheets and films) and ‘N’ (nets, ropes and lines) represented respectively 47% and 52% of the total GPGP plastic mass, with most of micro-, meso- and macroplastic mass coming from type ‘H’, and megaplastic from type ‘N’. Two additional plastic types, pellets (type ‘P’) and foams (type ‘F’) were also observed in a few size classes, but their overall contribution to the GPGP plastic load was minimal. For megaplastics, we could also assess the mass contributions of different object types. We estimated that 86% of their 42 k tonnes contribution was carried by fishing nets.
 - micro()
 - When accounting for the total mass, 92% of the debris found in the patch consists of objects larger than 0.5 cm, and three-quarters of the total mass is made of macro- and mega plastic. However, in terms of object count, 94% of the total is represented by microplastics.
-
+- 
 
 
 Overall plastic
