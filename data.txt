@@ -1,0 +1,48 @@
+About: 
+
+Details:
+Toward the Detection and Imaging of Ocean Microplastics With a Spaceborne Radar
+Marine debris detection with commercial satellite imagery and deep learning.
+
+Credit: 
+- https://www.youtube.com/watch?v=sQTGOU9LiJ0
+- https://www.nasa.gov/feature/esnt2021/scientists-use-nasa-satellite-data-to-track-ocean-microplastics-from-space
+- https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9449485
+- https://earthobservatory.nasa.gov/images/149163/mapping-marine-microplastics
+- https://podaac.jpl.nasa.gov/dataset/CYGNSS_L3_MICROPLASTIC_V1.0
+- https://github.com/NASA-IMPACT/marine_debris_ML
+- https://education.nationalgeographic.org/resource/great-pacific-garbage-patch/
+- https://www.nature.com/articles/s41598-018-22939-w 
+- NOAA’s Global Forecasting System
+
+
+- around an area of 20 million square kilometers (7.7 million square miles
+- Oceanographers and ecologists recently discovered that about 70 percent of marine debris actually sinks to the bottom of the ocean.
+- 80 percent of plastic in the ocean is estimated to come from land-based sources
+- the remaining 20 percent coming from boats and other marine sources.
+ A 2018 study found that synthetic fishing nets made up nearly half the mass of the Great Pacific Garbage Patch, due largely to ocean current dynamics and increased fishing activity in the Pacific Ocean.
+- The National Ocean and Atmospheric Administration’s Marine Debris Program has estimated that it would take 67 ships one year to clean up less than one percent of the North Pacific Ocean.
+- The drones determined that there is 100 times more plastic by weight than previously measured.
+- The team also discovered more permanent plastic features, or islands, some over 15 meters (50 feet) in length.
+- It is estimated that 1.15 to 2.41 million tonnes of plastic are entering the ocean each year from rivers. 
+- The GPGP covers an estimated surface area of 1.6 million square kilometers, an area twice the size of Texas or three times the size of France
+- At the time of sampling, there were more than 1.8 trillion pieces of plastic in the patch that weigh an estimated 80,000 tonnes.
+- 80’000 TONNES OF PLASTIC FLOAT IN THE GPGP, EQUIVALENT TO 500 JUMBO JETS
+- 4 TO 16 TIMES MORE PLASTIC IN THE GREAT PACIFIC GARBAGE PATCH THAN PREVIOUSLY ESTIMATED
+- 1.8 trillion plastic pieces were estimated to be floating in the patch – a plastic count that is equivalent to 250 pieces of debris for every human in the world.
+- Around 60% of the plastic produced is less dense than seawater
+- 652 surface net tows were carried out 
+- Plastics were by far the most dominant type of marine litter found, representing more than 99.9% of the 1,136,145 pieces and 668 kg of floating debris collected by our trawls.
+- We estimated that an area of 1.6 million km2 holds ocean plastic concentrations ranging from 10 s to 100 s kg km
+- This area, which comprises ~87% of the ocean plastic material present in our model domain (120°W–160°W, 20°N–45°N), defines the Great Pacific Garbage Patch (GPGP) boundary for this study.
+- GPGP contains a total of 1.8 (mid-point estimate, low: 1.1, high: 3.6) trillion plastic pieces weighing 79 k (45 k−129 k) tonnes, comprised of debris categorised in 4 size classes: microplastics (0.05–0.5 cm), mesoplastics (0.5–5 cm), macroplastics (5–50 cm), and megaplastics (>50 cm). Out of this total, we estimated 1.7 (1.1–3.5) trillion pieces and 6.4 k (4.1 k–12 k) tonnes of microplastics, 56 (39–104) billion pieces and 10 k (6.9 k–19 k) tonnes of mesoplastics, 821 (754–908) million pieces and 20k (18 k–22 k) tonnes of macroplastics, and 3.2 (2.7–3.6) million pieces and 42 k (16 k–75 k) tonnes of megaplastics 
+- 25% and 53% for macroplastics and megaplastics
+- Plastic types ‘H’ (hard plastics, sheets and films) and ‘N’ (nets, ropes and lines) represented respectively 47% and 52% of the total GPGP plastic mass, with most of micro-, meso- and macroplastic mass coming from type ‘H’, and megaplastic from type ‘N’. Two additional plastic types, pellets (type ‘P’) and foams (type ‘F’) were also observed in a few size classes, but their overall contribution to the GPGP plastic load was minimal. For megaplastics, we could also assess the mass contributions of different object types. We estimated that 86% of their 42 k tonnes contribution was carried by fishing nets.
+- micro()
+- When accounting for the total mass, 92% of the debris found in the patch consists of objects larger than 0.5 cm, and three-quarters of the total mass is made of macro- and mega plastic. However, in terms of object count, 94% of the total is represented by microplastics.
+
+
+
+Overall plastic
+- Global annual plastic consumption has now reached over 320 million tonnes with more plastic produced in the last decade than ever before
+- 

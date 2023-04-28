@@ -1,0 +1,62 @@
+{
+  "description": "Environmental Data - Great Pacific garbage Patch",
+  "microplasticsDataSet": [
+    {
+      "genre": "Microplastic",
+      "category": "0",
+      "mass": "0",
+      "scale": "0",
+      "percentage.GPGP": "94",
+      "damage": "0"
+    },
+    {
+      "genre": "Mesoplastic",
+      "category": "1",
+      "mass": "0",
+      "scale": "0",
+      "percentage": "0",
+      "damage": "0"
+    },
+    {
+      "genre": "Macroplastic",
+      "category": "2",
+      "mass": "0",
+      "scale": "0",
+      "percentage": "0",
+      "damage": "0"
+    },
+    {
+      "genre": "Megaplastic",
+      "category": "3",
+      "mass": "0",
+      "scale": "0",
+      "percentage": "0",
+      "damage": "0"
+    },
+    {
+      "genre": "Collective",
+      "category": "4",
+      "mass.total": "80,000 metric tons",
+      "scale.plastic.total": "1.8 trillion pieces",
+      "scale.plastic.perhuman": "250 pieces of debris for every human in the world",
+      "surfaceArea": "1.6 million square kilometers",
+      "percentage.pieces.fishing": "46",
+      "percentage.surface": "30",
+      "percentage.bottom": "70",
+      "cleanup.ships.required": "67"
+    },
+    {
+      "genre": "Source",
+      "category": "6",
+      "total.mass.percentage.fishingnets": "50",
+      "scale": "0",
+      "percentage": "0",
+      "damage": "0",
+      "plastic.origin.percentage.land": "80",
+      "plastic.origin.percentage.marine": "20",
+      "plastic.origin.percentage.japaneseTsunami": "20",
+      "plastic.origin.mass.rivers": "2.41 million tonnes of plastic",
+      "plastic.depth": "50 feet"
+    }
+  ]
+}
