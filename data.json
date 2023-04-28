@@ -47,7 +47,7 @@
     },
     {
       "genre": "Source",
-      "category": "6",
+      "category": "5",
       "total.mass.percentage.fishingnets": "50",
       "scale": "0",
       "percentage": "0",
@@ -57,6 +57,11 @@
       "plastic.origin.percentage.japaneseTsunami": "20",
       "plastic.origin.mass.rivers": "2.41 million tonnes of plastic",
       "plastic.depth": "50 feet"
+    },
+    {
+      "genre": "Future",
+      "category": "6",
+      "damage.percentage.2050": "300"
     }
   ]
 }
