@@ -6,7 +6,6 @@
       "category": "0",
       "mass.total.percentage": "8",
       "amount.total.percentage": "94",
-      "scale": "0",
       "percentage.GPGP": "94",
       "damage": "0"
     },
@@ -15,8 +14,6 @@
       "category": "1",
       "mass.total.percentage": "14",
       "amount.total.percentage": "2",
-      "scale": "0",
-      "percentage": "0",
       "damage": "0"
     },
     {
@@ -24,8 +21,6 @@
       "category": "2",
       "mass.total.percentage": "25",
       "amount.total.percentage": "2",
-      "scale": "0",
-      "percentage": "0",
       "damage": "0"
     },
     {
@@ -33,8 +28,6 @@
       "category": "3",
       "mass.total.percentage": "53",
       "amount.total.percentage": "2",
-      "scale": "0",
-      "percentage": "0",
       "damage": "0"
     },
     {
@@ -54,9 +47,6 @@
       "category": "5",
       "total.mass.percentage.fishingnets": "50",
       "total.marineDebris.percentage": "99.9",
-      "scale": "0",
-      "percentage": "0",
-      "damage": "0",
       "plastic.origin.percentage.land": "80",
       "plastic.origin.percentage.marine": "20",
       "plastic.origin.percentage.japaneseTsunami": "20",
